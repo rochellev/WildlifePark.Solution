@@ -29,3 +29,9 @@ $ dotnet run
 
 | Behaviors       | Input          | Output      |
 | ---------------- |:------------:| :--------------:|
+
+
+## Database Packages
+dotnet add package MySqlConnector
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Pomelo.EntityFrameworkCore.MySql
