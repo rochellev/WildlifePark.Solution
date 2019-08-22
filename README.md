@@ -29,3 +29,6 @@ $ dotnet run
 * dotnet add package MySqlConnector
 * dotnet add package Microsoft.EntityFrameworkCore
 * dotnet add package Pomelo.EntityFrameworkCore.MySql
+
+## Nswag
+* https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-2.2&tabs=visual-studio
