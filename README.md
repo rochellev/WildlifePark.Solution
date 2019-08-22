@@ -3,7 +3,7 @@
 -----
 
 ## Description
-* Building a API for wildlife cataloging.
+* Building a custon API for wildlife cataloging.
 
 ## Technologies Used
 * C#/.NET
@@ -25,13 +25,7 @@ $ dotnet ef database update
 $ dotnet run
 ```
 
-## Specs
-
-| Behaviors       | Input          | Output      |
-| ---------------- |:------------:| :--------------:|
-
-
 ## Database Packages
-dotnet add package MySqlConnector
-dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Pomelo.EntityFrameworkCore.MySql
+* dotnet add package MySqlConnector
+* dotnet add package Microsoft.EntityFrameworkCore
+* dotnet add package Pomelo.EntityFrameworkCore.MySql
